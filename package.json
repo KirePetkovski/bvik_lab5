@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "chai": "^5.1.0",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.22.3"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "@openzeppelin/contracts": "^5.0.2",
+    "moch": "^0.0.1",
+    "mocha": "^10.4.0"
+  }
+}
